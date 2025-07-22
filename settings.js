@@ -11,7 +11,7 @@ const chalk = require('chalk');
 
 global.owner = ['6285179968671'] //['628','628'] 2 owner atau lebih
 global.author = 'Uruma'
-global.botname = 'Ars Bot'
+global.botname = 'Ars'
 global.packname = 'Bot WhatsApp'
 global.listprefix = ['+','!','.']
 
