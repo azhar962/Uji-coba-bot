@@ -3,7 +3,7 @@ const chalk = require('chalk');
 
 /*
 	* Create By Uruma
-	* Follow https://github.com/nazedev
+	* Follow https://github.com/azhar962
 	* Whatsapp : https://whatsapp.com/channel/0029VaWOkNm7DAWtkvkJBK43
 */
 
